@@ -1,5 +1,13 @@
 # CS1660 Static Website Project
 
+## Parth's Project Info
+- IP Address
+  - 34.49.22.206
+- Link
+  - https://34.49.22.206:443
+- Cloud Storage Bucket URL
+  - https://storage.googleapis.com/static-site-bucket-pjp401/index.html
+
 ## Project Requirements
 - Google Cloud Platform (GCP) account
   - your educational credits are assigned via [Canvas](https://canvas.pitt.edu/courses/233982/discussion_topics/1232466)
